@@ -156,6 +156,8 @@ Actual model requirements depend on the selected model, quantization, context le
 
 Download the latest NK Node release from the **Releases** section of this repository.
 
+https://github.com/ToolshedMediaLab/NK-Node/releases/tag/NK-Node-v1.0.0
+
 ---
 
 # First Launch
