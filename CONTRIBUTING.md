@@ -26,15 +26,14 @@
 
 ## Bug Reporting
 
-If you encounter a bug, crash, or unexpected behavior while using NeuraKiln, please report it through our official Discord server.
+If you encounter a bug, crash, or unexpected behavior while using NK Node, please report it through our official Discord server.
 
 ### How to Report a Bug
 
 1. Join the [**Official NeuraKiln Discord Server**](https://discord.gg/KxXHZMmdZ7).
 2. Navigate to the **#bug-report** channel.
 3. Describe the issue and include the following information where applicable:
-   - **NeuraKiln Version:** The version you're currently using.
-   - **Affected Lab:** Media Lab, Llama Lab, Diffusion Lab, or Mesh Lab.
+   - **NK Node Version:** The version you're currently using.
    - **System Specifications:** GPU, CPU, RAM, and operating system.
    - **Steps to Reproduce:** A description of how the issue occurred.
    - **Expected Behavior:** What you expected to happen.
